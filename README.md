@@ -9,14 +9,6 @@
       <img alt="@devtracer's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=175941244&image_size=auto&color_scheme=light" width="497.5" height="auto">
     </picture>
   </a>
-
-  <!-- Contribution Time Distribution Widget -->
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=175941244&period=all_times" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=175941244&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-      <img alt="Contribution Time Distribution of @devtracer" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=175941244&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-    </picture>
-  </a>
 </div>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
