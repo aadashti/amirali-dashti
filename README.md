@@ -1,6 +1,6 @@
 [![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-![Static Badge](https://img.shields.io/badge/Bloom_Nix_GNU%2FLinux-%23454d6e)
+![Static Badge](https://img.shields.io/badge/Mai_Bloom_GNU%2FLinux-%FF5733)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)  
